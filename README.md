@@ -1,8 +1,8 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=SCRIPT+XRAY+MANTAP" />
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=SCRIPT+XRAY+BBX" />
 </p>
 
-# XRAY bbx
+# XRAY BBX
 - ***Script XRAY Multi Port 443/80 By RamaGans ID***
 - ***SCRIPT UNTUK MEMBUAT SERVER VPN***
 

@@ -2,20 +2,18 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=SCRIPT+XRAY+MANTAP" />
 </p>
 
-# XRAY MANTAP
-- ***Script XRAY Multi Port 443/80 By SL***
+# XRAY bbx
+- ***Script XRAY Multi Port 443/80 By RamaGans ID***
 - ***SCRIPT UNTUK MEMBUAT SERVER VPN***
 
-<p align='center'><a href="https://api.daily.dev/get?r=fisabiliyusri"><img src="https://raw.githubusercontent.com/fisabiliyusri/.github/main/kotori2.png?r=82s" width="150" alt="Hayuk"/></a></p>
+<p align='center'><img src="https://raw.githubusercontent.com/fisabiliyusri/.github/main/kotori2.png?r=82s" width="150" alt="Hayuk"/></a></p>
 
-<p align="center">
-<img height=21 src="https://komarev.com/ghpvc/?username=fisabiliyusri">
-</p>
+
 <div height='45' align="center">
 <h2>Contact me: <br>
-<a href="https://facebook.com/sulaiman.xl"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height='50'> </a>
+<a href="https://facebook.com/ramagans.id"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height='50'> </a>
 <h2>Support me: <br>
-<a href="https://trakteer.id/sulaiman-l/tip"> <img src="https://cdn.trakteer.id/images/embed/trbtn-red-6.png" height='50'> </a>
+<a href="https://sociabuzz.com/bbxhost69/donate"> <img src="https://cdn.trakteer.id/images/embed/trbtn-red-6.png" height='50'> </a>
 </h2>
 </div>
 #
@@ -42,14 +40,14 @@
 
 # Aplikasi VPN (Android Only)
 * Link:
-https://github.com/fisabiliyusri/XRAY-FOR-ANDROID
+https://github.com/BrebesBlackXploit/XRAY-FOR-ANDROID
 
 
 # OS 
 - Debian 9 (HVM)
 - Debian 10
 * Berhasil di gunakan di vps aws dan os debian 9 hvm
-* untuk vps isp yg lain saya tidak tau, dan os yg lain juga saya tidak tau wkwk
+* untuk vps isp yg lain saya tidak tau, dan os yg lain juga saya tidak tau:v
 
 # Syarat && Bahan Untuk Menggunakan Script Ini
 - Wajib Punya VPS
@@ -117,7 +115,7 @@ EOF
 - maka proses install akan berjalan, jangan keluar dari vps
 - jika keluar dari vps saat lagi proses install,maka akan gagal
 ```
-wget https://raw.githubusercontent.com/fisabiliyusri/XRAY-MANTAP/main/setup.sh && chmod +x setup.sh && ./setup.sh
+wget https://raw.githubusercontent.com/BrebesBlackXploit/xray/main/setup.sh && chmod +x setup.sh && ./setup.sh
 ```
 6. jika sudah selesai,lalu ketik xmenu untuk menampilkan menu
 <p align="center">
@@ -150,7 +148,7 @@ restart-xray
 # Contoh Cara Pointing Domain ke Cloudflare
 - Link:
 ```
-https://youtu.be/Pwfvwy5Ghcw
+otw
 ```
 # Cara Pointing Subdomain Secara Otomatis Di Cloudflare Menggunakan Script
 - edit dulu script auto-pointing nya
@@ -158,13 +156,13 @@ https://youtu.be/Pwfvwy5Ghcw
 nano /usr/bin/auto-pointing
 ```
 - contoh punya aku
-- tinggal ubah saja yg mantapxsl.my.id menjadi domain punya kamu
+- tinggal ubah saja yg cyberpanel1101.xyz menjadi domain punya kamu
 ```
-DOMAIN=mantapxsl.my.id
-SUB_DOMAIN=onichan-${sub}.mantapxsl.my.id
-NS_DOMAIN=zerosl-${sub}.mantapxsl.my.id
-CF_ID=slinfinity69@gmail.com
-CF_KEY=dd2c5e0313f122b3c1833471d469b1025f492
+DOMAIN=cyberpanel1101.xyz
+SUB_DOMAIN=onichan-${sub}.cyberpanel1101.xyz
+NS_DOMAIN=zerosl-${sub}.cyberpanel1101.xyz
+CF_ID=brebesbxx@gmail.com
+CF_KEY=1d872b5b696150212fcc866e3452b7cbeaa5e
 ```
 - Lalu ubah juga CF_ID= isi dengan alamat email cloudflare kamu
 - CF_KEY= isi dengan YOUR API KEY (GLOBAL API KEY)
